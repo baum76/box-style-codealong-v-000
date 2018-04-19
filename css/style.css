@@ -183,10 +183,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', end
 }
 /*////////// LOGO //////////*/
 
+#logo {
+  padding: 84px 0 0;
+}
 
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
+
 }
 
 #logo h2 {
